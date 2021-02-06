@@ -5,4 +5,8 @@ The aim of this new blog is to talk and share all about networking's stuff  (**n
 
 Hope you will like this new blog's version! And as usual be indulgent with my english :) 
 
-First post should come in few days... 
+## Junos Inline Monitoring
+
+Junos Inline monitoring, aka. IMON, is a cool feature that tries to leverage the best things of other “sampling” technologies (Mirroring, sFlow, IPFIX) to build a flexible and scalable monitoring solution.
+
+[More Info Here](imon/README.md)
