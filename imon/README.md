@@ -6,7 +6,7 @@ It relies on IPFIX (datalinkframesection) to convey Raw Packets with additional 
 
 During the 7th [vNOG](https://virtualnog.net) event I shared my tests of the Junos IMON feature. 
 
-More info an be found in my slides [here](door7302_Junos-inline-monitoring.pdf)
+More info can be found in my slides [here](door7302_Junos-inline-monitoring.pdf)
 
 David
 
